@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "Futura";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./fonts/futura light bt.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Futura";
+  font-style: italic;
+  font-weight: 100;
+  src: url("./fonts/Futura Light Italic font.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Futura";
+  font-style: normal;
+  font-weight: 200;
+  src: url("./fonts/Futura Book font.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Futura";
+  font-style: italic;
+  font-weight: 200;
+  src: url("./fonts/Futura Book Italic font.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Futura";
+  font-style: normal;
+  font-weight: 300;
+  src: url("./fonts/Futura Light font.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Futura";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/futura medium bt.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Futura";
+  font-style: italic;
+  font-weight: 400;
+  src: url("./fonts/Futura Medium Italic font.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Futura";
+  font-style: normal;
+  font-weight: 500;
+  src: url("./fonts/Futura_Bold_font.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Futura";
+  font-style: italic;
+  font-weight: 500;
+  src: url("./fonts/Futura Bold Italic font.ttf") format("truetype");
+}
